@@ -1,0 +1,24 @@
+ol{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+ol li{
+	clear: both;
+	margin: 0 0 10px 0;
+	padding: 0px;
+}
+
+label{
+	width: 150px;
+	float: left;
+}
+
+input{
+	border: 1px solid #333;
+}
+
+input:focus{
+	background-color: #ffe;
+}
